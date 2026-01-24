@@ -6,18 +6,21 @@
 
 <mortensengarth@hotmail.com>
 
-[GitHub](https://www.github.com/garthmortensen)
-\| [LinkedIn](https://www.linkedin.com/in/mortensengarth)
+[GitHub](https://www.github.com/garthmortensen) \| [LinkedIn](https://www.linkedin.com/in/mortensengarth)
 
 ## Full Stack Data Science
 
-Full stack data scientist with a strong data engineering backbone. I love creative destruction: automating manual pipelines, simplifying complexity, and designing clean, maintainable architectures. If you need someone who can handle the entire data workflow - from infrastructure to insights - let's talk.
+Full stack data scientist with a strong data engineering abilities. Love for creative destruction: automating manual pipelines, simplifying complexity, and designing clean, maintainable architectures. If you need someone who can handle the entire data workflow - from infrastructure to insights - let's talk.
 
-## Example Work: [SpilloverLab.com](https://www.spilloverlab.com)
+## Example Proof of Concepts
 
-*This site resides on cold storage, so give it a minute to load.*
+### [Prism](https://github.com/garthmortensen/prism)
 
-The site serves as live a time series analysis platform providing financial market spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs for advanced users, and (still in development) [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control. Constructed with a modular, microservice-based architecture, deployed via cloud, and CI/CD [auto-documentation](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api) and [unit testing](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard).
+**Prism is a platform** that modernizes Risk Adjustment operations by replacing opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize risk score runs, and guard-railed **AI agents interpret** and process downstream results.
+
+### [SpilloverLab.com](https://www.spilloverlab.com)
+
+Live a time series analysis platform providing financial market spillover modeling. Delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs for advanced users. Constructed with a modular, microservice-based architecture, deployed via cloud, and CI/CD [auto-documentation](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api) and [unit testing](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard).
 
 ## Professional Experience
 
