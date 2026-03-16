@@ -8,41 +8,38 @@
 
 [GitHub](https://www.github.com/garthmortensen) \| [LinkedIn](https://www.linkedin.com/in/mortensengarth)
 
-## Full Stack Data Science
+## Production Data Science
 
-Full stack data scientist with a strong data engineering abilities. Love for creative destruction: automating manual pipelines, simplifying complexity, and designing clean, maintainable architectures. If you need someone who can handle the entire data workflow - from infrastructure to insights - let's talk.
+Full stack data scientist with strong software engineering and producion abilities. Love for creative destruction: automating manual pipelines, simplifying complexity, and designing clean, maintainable architectures. I'm your candidate who can handle the entire data workflow - from infrastructure to insights - let's talk.
 
 ## Example Proof of Concepts
 
 ### [Prism](https://github.com/garthmortensen/prism)
 
-**Prism is a platform** that modernizes Risk Adjustment operations by replacing opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize risk score runs, and guard-railed **AI agents interpret** and process downstream results.
+**Prism is a platform** that modernizes Health Insurance Risk Adjustment operations by replacing opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize model parameters, and guard-railed **AI agents interpret** and process downstream results.
 
 ### [SpilloverLab.com](https://www.spilloverlab.com)
 
-Live a time series analysis platform providing financial market spillover modeling. Delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs for advanced users. Constructed with a modular, microservice-based architecture, deployed via cloud, and CI/CD [auto-documentation](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api) and [unit testing](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard).
+A time series analysis platform providing financial market spillover modeling. Delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs for advanced users. Constructed with a modular, microservice-based architecture, deployed via cloud, and CI/CD [auto-documentation](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api) and [unit testing](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard).
 
 ## Professional Experience
 
 ### Federal Reserve Bank of Minneapolis
 
-**Sr. Data Scientist, National Stress Testing Program, Production.** *Minneapolis, MN - 06/2022 -- Present*
+**Sr. Production Data Scientist, National Stress Testing Program.** *Minneapolis, MN - 06/2022 -- Present*
 
-- Maintained predictive credit risk models, modeling team's bespoke orchestration pipelines, dashboards, and performed adhoc analyses for Board of Governors.
-- Built a unified linux environment setup, provided linux, database and platform support for 150+ fellow quants.
-- Introduced python unit testing, Makefiles, simple-English docs.
-- Supported self-sufficiency by mentoring economists, quants, and interns.
-- Led migration of *vast* Production codebase across OS, language versions, environments, enabling mission-critical reproducibility under regulator-grade risk management framework.
-- Pushed 10+ high standards, high rigor Production model releases.
+- Coded predictive credit risk models, modeling team's bespoke orchestration pipelines, dashboards, and performed adhoc analyses for Board of Governors.
+- Pushed 11+ high standards, high rigor Production model releases.
+- Production's leading technical resource for python, database, linux, and liaison with front end team, top resource for 120+ fellow quants.
+- Led migration of *vast* Production codebase across OS, language versions, environments.
 
 ### University of Minnesota Coding Bootcamp
 
-**Fintech Instructor. [Student
-Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
+**Fintech Instructor. [Student Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
 *Saint Paul, MN - 09/2021 -- 04/2023*
 
 - Taught Python programming to working professionals, ranging from sysadmins to finance directors.
-- Explored cutting-edge topics such as ML-AI and blockchain/Solidity smart contracts.
+- Explored cutting-edge topics such as ML-AI and blockchain and Solidity smart contracts.
 - Scored 90% across all rating categories (engagement, clarity, knowledge), across 270+ lecture hours.
 
 ### Medica
@@ -67,7 +64,7 @@ Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?
 
 **Sr. Data Analyst.** *Minneapolis, MN - 05/2017 -- 12/2018*
 
-- Programmatically scanned and transformed unstructured claims data into a structured 7M+ record star-schema database.
+- Transformed and ingested unstructured claims data into a structured 7M+ record star-schema database.
 - Analyzed the resulting dataset to surface insights, including reports for top diagnoses by cost and prevalence, and ML models to predict claims.
 - Built and deployed custom tools with clean, user-friendly UI frontends.
 
@@ -75,7 +72,7 @@ Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?
 
 **Entrepreneurial NLP Dev.** *Paris, France - 05/2015 -- 01/2016*
 
-- Programmed text analysis plug-ins/tools specialized in language learning applications.
+- Programmed text analysis tools specialized in language learning applications.
 
 ### Saylor Consulting
 
@@ -99,7 +96,7 @@ Francisco, CA - 12/2013 -- 07/2014*
 **Financial News.** *Beijing, China - 02/2009 -- 07/2011*
 
 - Led a 15+ person international team to launch a new economics news show, working 6+ months without PTO to meet a high-stakes deadline.
-- Developed a demand-driven airtime allocation algorithm based on API-driven topic popularity; the method was later leaked to CNN International and appeared on their daily broadcast lineup.
+- Developed a demand driven airtime allocation algorithm based on API driven topic popularity; the method was later leaked to CNN International and appeared on their daily broadcast lineup.
 - The program successfully sold content to major global news networks including CNN and Nikkei.
 
 ### Caijing Magazine
