@@ -12,7 +12,7 @@
 
 Full stack data scientist with strong software engineering and producion abilities. Love for creative destruction: automating manual pipelines, simplifying complexity, and designing clean, maintainable architectures. I'm your candidate who can handle the entire data workflow - from infrastructure to insights - let's talk.
 
-## Example Proof of Concepts
+## Example Proof of Concepts/
 
 ### [Prism](https://github.com/garthmortensen/prism)
 
@@ -28,10 +28,12 @@ A time series analysis platform providing financial market spillover modeling. D
 
 **Sr. Production Data Scientist, National Stress Testing Program.** *Minneapolis, MN - 06/2022 -- Present*
 
-- Coded predictive credit risk models, modeling team's bespoke orchestration pipelines, dashboards, and performed adhoc analyses for Board of Governors.
-- Pushed 11+ high standards, high rigor Production model releases.
-- Production's leading technical resource for python, database, linux, and liaison with front end team, top resource for 120+ fellow quants.
-- Led migration of *vast* Production codebase across OS, language versions, environments.
+- Owned and delivered 5 infrastructure releases across Python, SQL, R, and Bash over tenure, improving reliability and usability of internal orchestration system.
+- Led migration of production codebase across OS, language versions, and platforms.
+- Led refactor of legacy procedural codebase into modular, reusable functions, improving maintainability and developer productivity.
+- Go-to technical lead for Python, databases, Linux, and Git across ~120 quants; unblocked development and improved engineering practices.
+- Productionized 6+ high-rigor credit risk models and performed ad hoc analyses consumed by Board of Governors.
+- Acted as Production's liaison/implementer to frontend, database, platform, and DevOps teams.
 
 ### University of Minnesota Coding Bootcamp
 
