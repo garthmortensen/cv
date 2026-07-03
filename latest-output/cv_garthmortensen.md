@@ -16,7 +16,7 @@ Full stack production-grade data scientist with strong software engineering back
 
 ### [Prism](https://github.com/garthmortensen/prism)
 
-**Prism is a platform** that modernizes Risk Adjustment operations by replacing opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize model parameters, and guard-railed **AI agents interpret** and process downstream results.
+**Prism is a modernized Risk Adjustment platform** which replaces opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize model parameters, and guard-railed **AI agents interpret** and process downstream results.
 
 ### [SpilloverLab.com](https://www.spilloverlab.com)
 
@@ -28,13 +28,16 @@ Time series analysis platform which allows users to experiment with  financial m
 
 **Sr. Production Data Scientist, National Stress Testing Program.** *Minneapolis, MN - 06/2022 -- Present*
 
-- Owned and delivered 5 infrastructure releases across Python, SQL, R, and Bash over tenure, improving reliability and usability of internal orchestration system.
-- Led migration of production codebase across OS, language versions, and platforms.
-- Led refactor of legacy procedural codebase into modular, reusable functions, improving maintainability and developer productivity.
-- Independently created and delivered modern ETL solution ("data framework"), reducing databasing times from 2 weeks to 10 minutes.
-- Served 120 ~quants as go-to technical resource for Python, databases, Linux, and Git across.
-- Acted as Production's liaison/implementer to frontend, database, platform, and DevOps teams.
-- Productionalized credit risk models and performed ad hoc analyses consumed by Board of Governors.
+- AI: Delivered RAG (Retrieval-Augmented Generation) system for Stress Testing program, enabling retrieval of relevant documentation to support analysis. Prototyped agentic workflows to automate execution, information retrieval, model configuration and decision support.
+- Hired to productionalize credit risk models; expanded role to assume ownership of orchestration, ETL, and production infrastructure supporting the stress testing program.
+-Productionalized mortgage and credit card risk models and performed ad hoc analyses consumed by the Board of Governors.
+- Owned orchestration platform responsible for congressionally mandated Dodd-Frank Stress Testing workflows, ensuring reliable execution of complex data pipelines.
+- Independently designed and delivered a modern ETL framework, reducing data loading times from two weeks to ten minutes.
+- Delivered six infrastructure releases across Python, SQL, R, and Bash, improving reliability and usability to support experimentation at scale.
+- Led migration of an enterprise-scale production codebase across operating systems, language versions, and platforms.
+- Served 120+ quantitative analysts as a technical resource for Python, databases, Linux, and Git.
+- Acted as Production's liaison and implementation partner to frontend, database, systems, and DevOps teams.
+- Mentored analysts into contributing to the production codebase, improving team capability and knowledge sharing.
 
 ### University of Minnesota Coding Bootcamp
 
