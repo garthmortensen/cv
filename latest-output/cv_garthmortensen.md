@@ -10,17 +10,17 @@
 
 ## Production Data Science
 
-Full stack data scientist with strong software engineering and producion abilities. Love for creative destruction: automating manual pipelines, simplifying complexity, and designing clean, maintainable architectures. I'm your candidate who can handle the entire data workflow - from infrastructure to insights - let's talk.
+Full stack production-grade data scientist with strong software engineering background. Love for creative destruction: building pipelines, reducing complexity, and designing clean, maintainable architectures. Let's talk.
 
 ## Example Proof of Concepts/
 
 ### [Prism](https://github.com/garthmortensen/prism)
 
-**Prism is a platform** that modernizes Health Insurance Risk Adjustment operations by replacing opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize model parameters, and guard-railed **AI agents interpret** and process downstream results.
+**Prism is a platform** that modernizes Risk Adjustment operations by replacing opaque "black box" legacy tools with a transparent, code-first architecture. It treats Risk Adjustment as a software engineering problem, ensuring usability, accuracy, auditability, and rapid scenario planning. Analysts parametrize model parameters, and guard-railed **AI agents interpret** and process downstream results.
 
 ### [SpilloverLab.com](https://www.spilloverlab.com)
 
-A time series analysis platform providing financial market spillover modeling. Delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs for advanced users. Constructed with a modular, microservice-based architecture, deployed via cloud, and CI/CD [auto-documentation](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api) and [unit testing](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard).
+Time series analysis platform which allows users to experiment with  financial market spillover modeling. Delivers simple-English interpretations, dashboards, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs for advanced users. Constructed with microservices, deployed on cloud with CI/CD [auto-documentation](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api) and [unit testing](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard).
 
 ## Professional Experience
 
@@ -31,27 +31,29 @@ A time series analysis platform providing financial market spillover modeling. D
 - Owned and delivered 5 infrastructure releases across Python, SQL, R, and Bash over tenure, improving reliability and usability of internal orchestration system.
 - Led migration of production codebase across OS, language versions, and platforms.
 - Led refactor of legacy procedural codebase into modular, reusable functions, improving maintainability and developer productivity.
-- Go-to technical lead for Python, databases, Linux, and Git across ~120 quants; unblocked development and improved engineering practices.
-- Productionized 6+ high-rigor credit risk models and performed ad hoc analyses consumed by Board of Governors.
+- Independently created and delivered modern ETL solution ("data framework"), reducing databasing times from 2 weeks to 10 minutes.
+- Served 120 ~quants as go-to technical resource for Python, databases, Linux, and Git across.
 - Acted as Production's liaison/implementer to frontend, database, platform, and DevOps teams.
+- Productionalized credit risk models and performed ad hoc analyses consumed by Board of Governors.
 
 ### University of Minnesota Coding Bootcamp
 
 **Fintech Instructor. [Student Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
 *Saint Paul, MN - 09/2021 -- 04/2023*
 
-- Taught Python programming to working professionals, ranging from sysadmins to finance directors.
-- Explored cutting-edge topics such as ML-AI and blockchain and Solidity smart contracts.
-- Scored 90% across all rating categories (engagement, clarity, knowledge), across 270+ lecture hours.
+- Taught programming to professionals ranging from sysadmins to finance directors.
+- Guided students in coding up ML models, blockchain implementations, Solidity smart contracts.
+- Across 270+ lecture hours, scored 90% across all rating categories (engagement, clarity, knowledge).
 
 ### Medica
 
-**Sr. Healthcare Analyst** *Minnetonka, MN - 11/2019 -- 06/2022*
+**Sr. Risk Adjustment Analyst.** *Minnetonka, MN - 11/2019 -- 06/2022*
 
-- Implemented models to predict member health scores.
-- Discovered techniques to automate database reconciliation.
-- Configured bare-metal Linux server to run automated OCR process to ETL `.pdf` information into database.
-- In zero-sum ACA marketplace, consistently outperformed competition.
+- Implemented ML models to predict member health scores.
+- Independently discovered how to tie-out government reporting database with data warehouse.
+- Configured bare-metal server to run automated OCR process to ETL `.pdf` into database, as ML model input.
+- In zero-sum marketplace, consistently outperformed leading health insurance companies, boosting revenue.
+- High-impact contributions recognized with a 12% discretionary merit increase.
 
 ### United Health Group R&D
 
@@ -140,7 +142,7 @@ St. Paul, USA. 2007
 
 ## Skills
 
-**Tech**: Python/R, databases (sql), ETL (dbt), git, linux (bash, tmux, RHEL, dotfiles, ssh), APIs (Fastapi, GraphQL), cloud (AWS/Google), CI/CD, docker containers, frontend frameworks (django), *VBA(!)*
+**Tech**: Python/R, git, databases (sql/nosql), ETL, linux (shell, RHEL), HPCs, permissions, APIs, cloud (AWS/Google), devops CI/CD, containers, integration, productionalization
 
 **[Certifications](https://github.com/garthmortensen/certifications)**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
 
